@@ -12,6 +12,7 @@ public class FBMenu extends FBContainer
    Button btExit, btDrop;
    public void initUI()
    {
+      setBackColor(CONTENTH);
       btExit = new Button("Exit");
       btExit.setBackColor(MENUBACK);
       add(btExit, LEFT+50,AFTER+50,FILL-50,PREFERRED+100);
