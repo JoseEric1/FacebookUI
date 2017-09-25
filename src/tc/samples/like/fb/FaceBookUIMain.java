@@ -1,6 +1,6 @@
+package tc.samples.like.fb;
 
 
-import tc.samples.like.fb.FaceBookUI;
 import totalcross.TotalCrossApplication;
 
 public class FaceBookUIMain {
